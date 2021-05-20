@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Noah';
-    src: local('Noah Head Regular'), local('Noah-Head-Regular'),
-        url('NoahHead-Regular.woff2') format('woff2'),
-        url('NoahHead-Regular.woff') format('woff'),
-        url('NoahHead-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-  }
